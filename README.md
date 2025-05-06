@@ -1,8 +1,5 @@
 ﻿**Lazy column**
 
-
-![Group 1](https://github.com/user-attachments/assets/e0f6188c-1a14-44e5-8580-d791cc2e196f)
-
 **Introduction**
 
 Welcome to this Jetpack Compose practice project, specifically focusing on the LazyColumn component. This project was created with the goal of exploring and mastering how to use LazyColumn to efficiently display lists of items in modern Android applications.
