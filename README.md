@@ -38,5 +38,5 @@ git clone https://github.com/huytran2005/TestLazyColumn
 
 The project should build and deploy to your device/emulator.
 
-**Demo **
+**Demo**
 ![Group 1](https://github.com/user-attachments/assets/bc270dc3-4346-4953-8445-2401c838e6a3)
