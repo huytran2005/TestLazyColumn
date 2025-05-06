@@ -1,4 +1,4 @@
-﻿**Lazy column**
+﻿# Lazy column
 
 **Introduction**
 
